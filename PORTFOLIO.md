@@ -2,3 +2,4 @@
 
 ## Sobre Mí
 
+## Habilidades Técnicas
